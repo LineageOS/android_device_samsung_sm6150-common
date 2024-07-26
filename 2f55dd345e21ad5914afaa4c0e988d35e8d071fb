@@ -22,6 +22,30 @@
       },
       "revId": "2f55dd345e21ad5914afaa4c0e988d35e8d071fb",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3f13f062_ea695877",
+        "filename": "framework_compatibility_matrix.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 240,
+      "author": {
+        "id": 33846
+      },
+      "writtenOn": "2024-07-26T22:27:16Z",
+      "side": 1,
+      "message": "Sure, though I\u0027ve noticed that samsung.hardware.radio version differs between devices. That would probably need to be left out.",
+      "parentUuid": "969db7a5_f63635be",
+      "range": {
+        "startLine": 44,
+        "startChar": 0,
+        "endLine": 240,
+        "endChar": 10
+      },
+      "revId": "2f55dd345e21ad5914afaa4c0e988d35e8d071fb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
