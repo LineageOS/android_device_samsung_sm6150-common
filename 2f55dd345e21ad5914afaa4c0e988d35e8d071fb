@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "969db7a5_f63635be",
+        "filename": "framework_compatibility_matrix.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 240,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-07-26T22:14:58Z",
+      "side": 1,
+      "message": "Can you throw all this into a vendor FCM in hardware/samsung?",
+      "range": {
+        "startLine": 44,
+        "startChar": 0,
+        "endLine": 240,
+        "endChar": 10
+      },
+      "revId": "2f55dd345e21ad5914afaa4c0e988d35e8d071fb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
