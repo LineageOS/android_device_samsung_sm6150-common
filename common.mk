@@ -253,6 +253,8 @@ PRODUCT_PACKAGES += \
     android.hardware.keymaster@4.0-service.samsung \
     libkeymaster4_1support.vendor
 
+$(call soong_config_set,samsungVars,target_keymaster4_library,//vendor/samsung/sm6150-common:libskeymaster4device)
+
 # LiveDisplay
 PRODUCT_PACKAGES += \
     vendor.lineage.livedisplay@2.0-service.samsung-sm6150
