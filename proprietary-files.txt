@@ -225,12 +225,6 @@ vendor/lib64/camera/components/libmmcamera_cac3.so
 vendor/lib64/camera/com.samsung.sensor.gc5035.so
 vendor/lib64/camera/com.samsung.sensor.s5k4ha.so
 vendor/lib64/camera/com.samsung.sensor.s5kgd1_front.so
-vendor/lib64/camera/com.samsung.sensormodule.1_lsi_s5kgd1_front_dv.bin
-vendor/lib64/camera/com.samsung.sensormodule.1_lsi_s5kgd1_front_pv_NEW.bin
-vendor/lib64/camera/com.samsung.sensormodule.1_lsi_s5kgd1_front_pv_OLD.bin
-vendor/lib64/camera/com.samsung.sensormodule.8_lsi_s5kgd1_front_full_dv.bin
-vendor/lib64/camera/com.samsung.sensormodule.8_lsi_s5kgd1_front_full_pv_NEW.bin
-vendor/lib64/camera/com.samsung.sensormodule.8_lsi_s5kgd1_front_full_pv_OLD.bin
 vendor/lib64/libBeauty_v4.camera.samsung.so
 vendor/lib64/libDLInterface.camera.samsung.so
 vendor/lib64/libDualCamBokehCapture.camera.samsung.so
@@ -358,12 +352,6 @@ vendor/bin/hw/android.hardware.drm@1.3-service.widevine
 vendor/etc/init/android.hardware.drm@1.3-service.widevine.rc
 vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.widevine.xml
 vendor/lib/libwvhidl.so
-
-# DRM - Widevine key provisioning
-vendor/bin/vendor.samsung.hardware.security.widevine.keyprov@1.0-service
-vendor/bin/wvkprov;DISABLE_CHECKELF
-vendor/etc/init/vendor.samsung.hardware.security.widevine.keyprov@1.0-service.rc
-vendor/lib64/vendor.samsung.hardware.security.widevine.keyprov@1.0.so
 
 # Gatekeeper
 vendor/lib64/hw/gatekeeper.mdfpp.so
