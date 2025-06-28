@@ -1,2 +1,9 @@
 soong_namespace {
 }
+
+prebuilt_hidl_interfaces {
+    name: "hidl_nxp_nfc_interface",
+    interfaces: [
+        "vendor.nxp.nxpnfc@1.1::INxpNfc",
+    ],
+}
