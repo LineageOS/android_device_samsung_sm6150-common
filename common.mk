@@ -190,11 +190,11 @@ PRODUCT_PACKAGES += \
     android.hardware.biometrics.fingerprint-service.samsung
 
 # FM
-# PRODUCT_PACKAGES += \
-#     FM2 \
-#     libqcomfm_jni \
-#     qcom.fmradio \
-#     qcom.fmradio.xml
+PRODUCT_PACKAGES += \
+    FM2 \
+    libqcomfm_jni \
+    qcom.fmradio \
+    qcom.fmradio.xml
 
 # Gatekeeper HAL
 PRODUCT_PACKAGES += \
